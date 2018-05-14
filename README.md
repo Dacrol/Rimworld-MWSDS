@@ -1,0 +1,1 @@
+Mod that makes deaths in Rimworld more dramatic.
