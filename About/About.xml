@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<ModMetaData>
-        <name>Mmm Whatcha Say Death Sound</name>
-        <author>Dacrol</author>
-        <targetVersion>0.18.1722</targetVersion>
-        <description>
-        </description>
-    </ModMetaData>
+<ModMetaData>
+    <name>Mmm Whatcha Say Death Sound</name>
+    <author>Dacrol</author>
+    <targetVersion>0.18.1722</targetVersion>
+    <description>Makes the pawn death sound considerably more dramatic.</description>
+</ModMetaData>
