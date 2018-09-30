@@ -12,16 +12,16 @@
           </li>
         </grains>
         <volumeRange>
-          <min>48</min>
-          <max>48</max>
+          <min>55</min>
+          <max>55</max>
         </volumeRange>
         <pitchRange>
           <min>1.0</min>
-          <max>1.0</max>
+          <max>1.08</max>
         </pitchRange>
         <distRange>
           <min>0</min>
-          <max>75</max>
+          <max>80</max>
         </distRange>
       </li>
     </subSounds>
