@@ -6,9 +6,10 @@
     <eventNames />
     <subSounds>
       <li>
+        <name>False</name>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>UI/PawnDeath</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>WhatchaSay/WhatchaSay</clipPath>
           </li>
         </grains>
         <volumeRange>
@@ -34,9 +35,10 @@
     <subSounds>
       <li>
         <onCamera>True</onCamera>
+        <name>False</name>
         <grains>
           <li Class="AudioGrain_Clip">
-            <clipPath>UI/PawnDeath</clipPath>
+            <clipPath>WhatchaSay/WhatchaSay</clipPath>
           </li>
         </grains>
         <volumeRange>
