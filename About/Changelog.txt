@@ -1,5 +1,7 @@
 # Changelog for Mmm Whatcha Say Death Sound
 
+1.4.1 - Fixed AudioGrain issue
+
 1.4.0 - Mod updated for 1.4, fixed AudioGrain issue
 
 1.3.0 - Updated for 1.3
